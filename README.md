@@ -1,10 +1,14 @@
 # Personal Digital Assistant Profile Cards
 
-Welcome to the **Personal Digital Assistant Profile Cards** project! This project is part of my journey to learn React. It showcases profile cards for popular digital assistants using React and Bulma CSS for styling.
+Welcome to the **Personal Digital Assistant Profile Cards** project! This project is part of my journey to learn React. 
+
+It showcases profile cards for popular digital assistants using React and Bulma CSS for styling.
 
 ## Project Overview
 
-This repository contains a simple React application that displays profile cards for digital assistants like Alexa, Cortana, and Siri. Each profile card includes an image, title, handle, and a short description.
+This repository contains a simple React application that displays profile cards for digital assistants like Alexa, Cortana, and Siri.
+
+Each profile card includes an image, title, handle, and a short description.
 
 ## Features
 
