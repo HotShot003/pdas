@@ -13,7 +13,9 @@ Each profile card includes an image, title, handle, and a short description.
 ## Features
 
 - **React Components**: The project uses React components to create reusable UI elements.
+  
 - **Bulma CSS**: Styling is handled using Bulma, a modern CSS framework based on Flexbox.
+  
 - **Profile Cards**: Displays profile cards for Alexa, Cortana, and Siri with their respective images and descriptions.
 
 ## Tech Stack
@@ -30,11 +32,9 @@ The following technologies are used in this project:
 
 - Node.js and npm installed on your machine.
 
-
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or find any issues, feel free to create an issue or submit a pull request.
-
 ---
 
 Thank you for visiting the repository. Happy coding!
